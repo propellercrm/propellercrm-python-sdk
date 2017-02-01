@@ -1,7 +1,6 @@
 # Propeller CRM Python SDK
-The official python wrapper for the [Propeller CRM API](http://developers.propellercrm.com)
 
-[Propeller](https://www.propellercrm.com) is the CRM salespeople actually want to use.
+[Propeller](https://www.propellercrm.com) is the CRM salespeople actually want to use. And it's also pretty great for developers!
 
 ## Installation
 
