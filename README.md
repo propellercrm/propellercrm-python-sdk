@@ -65,7 +65,7 @@ contact = propellercrm.Contact.get('<id>')
 
 ~~~
 print contact.first_name
-print contact.customYourCustomAttr
+print contact.custom_your_custom_attr
 ~~~
 
 ### Get a contact and related account
